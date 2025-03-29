@@ -1,0 +1,14 @@
+Active {
+  color: red;
+}
+
+.error {
+  color: red;
+}
+
+.hide_sidebar {
+  /* display: none; */
+  transform: translateX(-100%);
+  width: 0;
+  height: 0;
+}
